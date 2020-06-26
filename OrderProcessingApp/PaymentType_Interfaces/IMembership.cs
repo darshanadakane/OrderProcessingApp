@@ -7,6 +7,6 @@ namespace OrderProcessingApp.Interfaces
     public interface IMembership
     {
         void ActivateMembership();
-        void EmailToOwnerAcknowledgement();
+        void EmailToOwnerAcknowledgement(string ownerEmail);
     }
 }
