@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dn8rA9rsfDwhoZtDWG3Jlt88p5SL0OOrQTGp4oW1j55x1xX/w1MPys6Rf1a/tOnVd3gQ/KCN024rVhQmoRKNUQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nz983e\\Documents\\Laptop\\Personal\\CodingPractice\\OrderProcessingApp\\OrderProcessingApp\\OrderProcessingApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nz983e\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

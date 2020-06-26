@@ -1,0 +1,13 @@
+C:\Users\nz983e\Documents\Laptop\Personal\CodingPractice\OrderProcessingApp\OrderProcessingApp\bin\Debug\netcoreapp3.1\OrderProcessingApp.exe
+C:\Users\nz983e\Documents\Laptop\Personal\CodingPractice\OrderProcessingApp\OrderProcessingApp\bin\Debug\netcoreapp3.1\OrderProcessingApp.deps.json
+C:\Users\nz983e\Documents\Laptop\Personal\CodingPractice\OrderProcessingApp\OrderProcessingApp\bin\Debug\netcoreapp3.1\OrderProcessingApp.runtimeconfig.json
+C:\Users\nz983e\Documents\Laptop\Personal\CodingPractice\OrderProcessingApp\OrderProcessingApp\bin\Debug\netcoreapp3.1\OrderProcessingApp.runtimeconfig.dev.json
+C:\Users\nz983e\Documents\Laptop\Personal\CodingPractice\OrderProcessingApp\OrderProcessingApp\bin\Debug\netcoreapp3.1\OrderProcessingApp.dll
+C:\Users\nz983e\Documents\Laptop\Personal\CodingPractice\OrderProcessingApp\OrderProcessingApp\bin\Debug\netcoreapp3.1\OrderProcessingApp.pdb
+C:\Users\nz983e\Documents\Laptop\Personal\CodingPractice\OrderProcessingApp\OrderProcessingApp\obj\Debug\netcoreapp3.1\OrderProcessingApp.csprojAssemblyReference.cache
+C:\Users\nz983e\Documents\Laptop\Personal\CodingPractice\OrderProcessingApp\OrderProcessingApp\obj\Debug\netcoreapp3.1\OrderProcessingApp.AssemblyInfoInputs.cache
+C:\Users\nz983e\Documents\Laptop\Personal\CodingPractice\OrderProcessingApp\OrderProcessingApp\obj\Debug\netcoreapp3.1\OrderProcessingApp.AssemblyInfo.cs
+C:\Users\nz983e\Documents\Laptop\Personal\CodingPractice\OrderProcessingApp\OrderProcessingApp\obj\Debug\netcoreapp3.1\OrderProcessingApp.csproj.CoreCompileInputs.cache
+C:\Users\nz983e\Documents\Laptop\Personal\CodingPractice\OrderProcessingApp\OrderProcessingApp\obj\Debug\netcoreapp3.1\OrderProcessingApp.dll
+C:\Users\nz983e\Documents\Laptop\Personal\CodingPractice\OrderProcessingApp\OrderProcessingApp\obj\Debug\netcoreapp3.1\OrderProcessingApp.pdb
+C:\Users\nz983e\Documents\Laptop\Personal\CodingPractice\OrderProcessingApp\OrderProcessingApp\obj\Debug\netcoreapp3.1\OrderProcessingApp.genruntimeconfig.cache
